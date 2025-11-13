@@ -209,3 +209,6 @@ __marimo__/
 #vs code
 .vscode/
 settings.json
+
+#python util
+parse_tests.py
