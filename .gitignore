@@ -213,3 +213,4 @@ settings.json
 #python util
 parse_tests.py
 test_history.json
+search_utils.py
